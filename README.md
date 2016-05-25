@@ -2,7 +2,7 @@
 
 ![alt text](doc/autorally_repo.jpg "Platform image")
 
-Software for the AutoRally research platform.
+Software for the AutoRally research platform -- a robust, cost-effective, and safe platform for research into agressive autonomous off-road driving.
 
 AutoRally Platform Website: http://autorally.github.io
 
